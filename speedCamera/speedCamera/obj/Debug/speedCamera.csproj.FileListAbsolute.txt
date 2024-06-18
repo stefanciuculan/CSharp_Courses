@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\speedCamera\speedCamera\bin\Debug\speedCamera.exe.config
+C:\Users\Stefan\source\repos\speedCamera\speedCamera\bin\Debug\speedCamera.exe
+C:\Users\Stefan\source\repos\speedCamera\speedCamera\bin\Debug\speedCamera.pdb
+C:\Users\Stefan\source\repos\speedCamera\speedCamera\obj\Debug\speedCamera.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\speedCamera\speedCamera\obj\Debug\speedCamera.exe
+C:\Users\Stefan\source\repos\speedCamera\speedCamera\obj\Debug\speedCamera.pdb

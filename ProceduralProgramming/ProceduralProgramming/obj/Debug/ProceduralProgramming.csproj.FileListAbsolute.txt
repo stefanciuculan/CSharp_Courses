@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\c#\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+C:\Users\Stefan\Desktop\c#\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+C:\Users\Stefan\Desktop\c#\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+C:\Users\Stefan\Desktop\c#\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\c#\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+C:\Users\Stefan\Desktop\c#\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb
+D:\C#\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+D:\C#\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+D:\C#\ProceduralProgramming\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+D:\C#\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.csprojAssemblyReference.cache
+D:\C#\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+D:\C#\ProceduralProgramming\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb

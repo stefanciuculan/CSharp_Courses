@@ -1,0 +1,6 @@
+D:\C#\Lists\Lists\bin\Debug\Lists.exe.config
+D:\C#\Lists\Lists\bin\Debug\Lists.exe
+D:\C#\Lists\Lists\bin\Debug\Lists.pdb
+D:\C#\Lists\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+D:\C#\Lists\Lists\obj\Debug\Lists.exe
+D:\C#\Lists\Lists\obj\Debug\Lists.pdb

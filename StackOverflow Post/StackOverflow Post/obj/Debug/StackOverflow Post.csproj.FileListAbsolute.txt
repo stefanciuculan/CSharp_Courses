@@ -1,0 +1,6 @@
+D:\C#\StackOverflow Post\StackOverflow Post\bin\Debug\StackOverflow Post.exe.config
+D:\C#\StackOverflow Post\StackOverflow Post\bin\Debug\StackOverflow Post.exe
+D:\C#\StackOverflow Post\StackOverflow Post\bin\Debug\StackOverflow Post.pdb
+D:\C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.csprojAssemblyReference.cache
+D:\C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.exe
+D:\C#\StackOverflow Post\StackOverflow Post\obj\Debug\StackOverflow Post.pdb

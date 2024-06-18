@@ -1,0 +1,6 @@
+D:\C#\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\C#\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\C#\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\C#\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+D:\C#\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\C#\DataBase\DataBase\obj\Debug\DataBase.pdb
