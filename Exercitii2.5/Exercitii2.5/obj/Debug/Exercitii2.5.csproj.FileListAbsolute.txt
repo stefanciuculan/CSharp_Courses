@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\c#\Exercitii2.5\Exercitii2.5\bin\Debug\Exercitii2.5.exe.config
+C:\Users\Stefan\Desktop\c#\Exercitii2.5\Exercitii2.5\bin\Debug\Exercitii2.5.exe
+C:\Users\Stefan\Desktop\c#\Exercitii2.5\Exercitii2.5\bin\Debug\Exercitii2.5.pdb
+C:\Users\Stefan\Desktop\c#\Exercitii2.5\Exercitii2.5\obj\Debug\Exercitii2.5.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\c#\Exercitii2.5\Exercitii2.5\obj\Debug\Exercitii2.5.exe
+C:\Users\Stefan\Desktop\c#\Exercitii2.5\Exercitii2.5\obj\Debug\Exercitii2.5.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\c#\Exercitii4\Exercitii4\bin\Debug\Exercitii4.exe.config
+C:\Users\Stefan\Desktop\c#\Exercitii4\Exercitii4\bin\Debug\Exercitii4.exe
+C:\Users\Stefan\Desktop\c#\Exercitii4\Exercitii4\bin\Debug\Exercitii4.pdb
+C:\Users\Stefan\Desktop\c#\Exercitii4\Exercitii4\obj\Debug\Exercitii4.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\c#\Exercitii4\Exercitii4\obj\Debug\Exercitii4.exe
+C:\Users\Stefan\Desktop\c#\Exercitii4\Exercitii4\obj\Debug\Exercitii4.pdb

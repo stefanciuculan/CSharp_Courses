@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\c#\Exercitii3\Exercitii3\bin\Debug\Exercitii3.exe.config
+C:\Users\Stefan\Desktop\c#\Exercitii3\Exercitii3\bin\Debug\Exercitii3.exe
+C:\Users\Stefan\Desktop\c#\Exercitii3\Exercitii3\bin\Debug\Exercitii3.pdb
+C:\Users\Stefan\Desktop\c#\Exercitii3\Exercitii3\obj\Debug\Exercitii3.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\c#\Exercitii3\Exercitii3\obj\Debug\Exercitii3.exe
+C:\Users\Stefan\Desktop\c#\Exercitii3\Exercitii3\obj\Debug\Exercitii3.pdb

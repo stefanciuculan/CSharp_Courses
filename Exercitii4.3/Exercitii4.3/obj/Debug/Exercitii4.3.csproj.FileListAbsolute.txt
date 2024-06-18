@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\c#\Exercitii4.3\Exercitii4.3\bin\Debug\Exercitii4.3.exe.config
+C:\Users\Stefan\Desktop\c#\Exercitii4.3\Exercitii4.3\bin\Debug\Exercitii4.3.exe
+C:\Users\Stefan\Desktop\c#\Exercitii4.3\Exercitii4.3\bin\Debug\Exercitii4.3.pdb
+C:\Users\Stefan\Desktop\c#\Exercitii4.3\Exercitii4.3\obj\Debug\Exercitii4.3.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\c#\Exercitii4.3\Exercitii4.3\obj\Debug\Exercitii4.3.exe
+C:\Users\Stefan\Desktop\c#\Exercitii4.3\Exercitii4.3\obj\Debug\Exercitii4.3.pdb
